@@ -17,7 +17,9 @@ By combining computer vision, real-time audio feedback, and haptic signaling, Si
 
 ### Prototype
 
-![Sight_Sync Glasses](assets/images/protoype.jpg)
+<p align="center">
+  <img src="assets/images/prototype.jpg" alt="Sight_Sync prototype" width="650"/>
+</p>
 
 ---
 
@@ -203,3 +205,4 @@ Sight_Sync aims to provide:
 ## 11. License
 
 This project is released under the [MIT License](LICENSE).
+

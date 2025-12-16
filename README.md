@@ -202,7 +202,45 @@ Sight_Sync aims to provide:
 
 ---
 
-## 11. License
+---
+
+## 11. Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Pratyushhhhhh">
+        <img src="https://github.com/Pratyushhhhhh.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br />
+      <sub>Role/Contribution</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/popcorn195">
+        <img src="https://github.com/popcorn195.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br />
+      <sub>Role/Contribution</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username3">
+        <img src="https://github.com/username3.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br />
+      <sub>Role/Contribution</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 12. License
 
 This project is released under the [MIT License](LICENSE).
 

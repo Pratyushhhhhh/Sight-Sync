@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+opencv-python
+pillow
+pyttsx3
+fake-rpi
+gtts
+googletrans==4.0.0-rc1
+

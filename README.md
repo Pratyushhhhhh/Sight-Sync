@@ -227,8 +227,8 @@ Sight_Sync aims to provide:
       <sub>Role/Contribution</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/username3">
-        <img src="https://github.com/username3.png" width="100px;" alt=""/>
+      <a href="https://github.com/riya23160">
+        <img src="https://github.com/riya23160.png" width="100px;" alt=""/>
         <br />
         <sub><b>Riya </b></sub>
       </a>
@@ -252,5 +252,6 @@ Sight_Sync aims to provide:
 ## 12. License
 
 This project is released under the [MIT License](LICENSE).
+
 
 
